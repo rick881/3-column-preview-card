@@ -27,7 +27,7 @@ body {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: var(--Light-gray) !important;
+    background-color: var(--Light-gray) !important;
 }
 
 .row {
