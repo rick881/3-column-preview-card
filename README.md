@@ -34,10 +34,14 @@ Users should be able to:
 - Desktop view
 ![3 column card desktop view](https://user-images.githubusercontent.com/112169932/189652377-5623a44b-0671-4619-af74-66fe86c36be3.PNG)
 
+
 - Tablet view
+
 ![3 column card tablet view](https://user-images.githubusercontent.com/112169932/189652473-db9582e9-5faf-450b-a8eb-302564ff3135.PNG)
 
+
 - Mobile view
+
 ![3 column card mobile view](https://user-images.githubusercontent.com/112169932/189652548-4dc3ad7f-4260-4e88-829c-08fd810e0cef.PNG)
 
 ### Links
