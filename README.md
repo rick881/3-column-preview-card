@@ -46,8 +46,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/rick881/3-column-preview-card.git)
-- Live Site URL: [Add live site URl here](https://your-live-site-url.com](https://rick881.github.io/3-column-preview-card/)
+- Solution URL: [Add solution URL here](https://github.com/rick881/3-column-preview-card.git]
+- Live Site URL: [Add live site URl here](https://rick881.github.io/3-column-preview-card/)]
 
 ## My process
 
