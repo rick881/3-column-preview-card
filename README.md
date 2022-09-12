@@ -38,13 +38,12 @@ Users should be able to:
 ![3 column card tablet view](https://user-images.githubusercontent.com/112169932/189652473-db9582e9-5faf-450b-a8eb-302564ff3135.PNG)
 
 - Mobile view
-
 ![3 column card mobile view](https://user-images.githubusercontent.com/112169932/189652548-4dc3ad7f-4260-4e88-829c-08fd810e0cef.PNG)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/rick881/3-column-preview-card.git)
-- Live Site URL: [https://rick881.github.io/3-column-preview-card/](https://your-live-site-url.com)
+- Live Site URL: [Add live site URl here](https://your-live-site-url.com](https://rick881.github.io/3-column-preview-card/)
 
 ## My process
 
